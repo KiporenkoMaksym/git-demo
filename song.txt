@@ -1,5 +1,6 @@
 Lyrics.com is a vast compilation of
 song lyrics, album details, and 
+<<<<<<< HEAD
 Smile an everlasting smile a 
 smile could bring you near to me
 
@@ -8,3 +9,9 @@ You think that I don't even mean
 a single word I say
 It's only words and words are 
 all I have to take your
+=======
+
+
+Smile an everlasting smile a 
+smile could bring you near to me
+>>>>>>> 963774c2a0aa0adb1ff9abadfe351a3f4c3c24cf
